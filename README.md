@@ -68,13 +68,15 @@ Estiven66
 | Stars | Top Languages |
 |:-----:|:--------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=estiven66&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estiven66&langs_count=8&theme=algolia) |
+---
+## 📂 Mis proyectos
 
+<p align="center">
+  <a href="https://github.com/estiven66?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20todos%20mis%20repositorios-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios de GitHub"/>
+  </a>
+</p>
 ---
 
 ![](https://komarev.com/ghpvc/?username=estiven66&style=flat-square)
 
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
-------
-Credit: [Estiven66](https://github.com/estiven66)  
-Last Edited on: 09/28/2025
